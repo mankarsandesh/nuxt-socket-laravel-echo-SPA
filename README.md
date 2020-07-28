@@ -1,6 +1,6 @@
 # nuxt-websocket
 
-> My striking Nuxt.js project
+> Nuxt SPA Mode Connect to Laravel Echo Pusher.
 
 ## Build Setup
 
