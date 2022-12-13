@@ -13,7 +13,7 @@
   "dependencies": {
     "ant-design-vue": "^1.1.10",
     "cross-env": "^5.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "laravel-echo": "^1.6.1",
     "nuxt": "^2.0.0",
     "pusher-js": "^5.1.1",
